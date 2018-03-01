@@ -1,15 +1,13 @@
-@import "components/base.css";
-@import "components/type.css";
+@import "normalize.css";
+@import "base.css";
+@import "type.css";
 
 @import "components/container.css";
 @import "components/button.css";
+@import "components/form.css";
 @import "components/card.css";
 @import "components/logo.css";
 @import "components/navbar.css";
 @import "components/width.css";
 @import "components/grid.css";
-@import "components/slider.css";
-
-@import "modules/feature/card.css";
-@import "modules/feature/grid.css";
-@import "modules/shopping-card/shopping-card.css";
+@import "components/layout.css";
